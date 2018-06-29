@@ -1,0 +1,46 @@
+web servisten 
+
+paket yaz içinde fonksiyon olsun.
+math_utility(opr1,opr2,opr...) gibi
+yazıp içindeki hesap makinesi işlemini web servisten kullanarak yapacağız
+
+
+
+YENİ ÖDEV
+how to com inside
+
+isPrime input INT output STRING
+
+PL/SQL Code(
+	create or replace JAVA...{
+		java code(isPrime operation){
+		İNPUT -> INT
+		OUTPUT -> STRING
+		}
+		}
+		)
+		
+		
+		
+		
+		ÖDEV
+		SOURCE CODE CONTROL
+		gitlab hesabı oluşturup
+		bundan sonra ödevleri gitlab'e ekleyecek
+		artık gitlab deki link'i göndererek ödevi göndermiş olacağız 
+		
+		
+		ÖDEV
+		
+		isPrime kodunu DEBUG edelim
+		
+		pl/sql get_employee_name 'in kodunu DEBUG edelim
+		
+		
+		
+		
+		
+		
+		
+		
+		
